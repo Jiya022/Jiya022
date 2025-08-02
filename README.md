@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jiya Choudhary</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hello! I'm Jiya Choudhary👋</h1>
+<h3 align="center">Exploring the ever-evolving world of frontend development.</h3>
 
 
 - 🌱 I’m currently learning **Spring Boot**
