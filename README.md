@@ -2,7 +2,7 @@
 <h3 align="center">Exploring the ever-evolving world of frontend development.</h3>
 
 
-- 🌱 I’m currently learning **Spring Boot**
+
 
 - 📫 How to reach me **jiyac3729@gmail.com**
 
