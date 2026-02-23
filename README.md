@@ -41,7 +41,4 @@
 
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jiya022&show_icons=true&locale=en&theme=dark" alt="Jiya's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jiya022&show_icons=true&locale=en&layout=compact&theme=dark" alt="Jiya's Top Languages" />
-</p>
+
