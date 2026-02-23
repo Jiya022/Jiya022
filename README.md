@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Jiya Choudhary👋</h1>
 <h3 align="center">B.Tech CSE (AIML) student passionate about machine learning and data science.</h3>
 
-- 📫 How to reach me **jiyac3729@gmail.com**
+- 📬 Reach me at: [jiyac3729@gmail.com](mailto:jiyac3729@gmail.com)
 
 - 📄 **View my Resume:** [Click Here](https://drive.google.com/file/d/1Gqs9eEn4rcgruYB5spQ7DvXLFPnJJu0_/view?usp=drivesdk)
 
