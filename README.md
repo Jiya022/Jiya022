@@ -3,7 +3,7 @@
 
 - 📬 Reach me at: [jiyac3729@gmail.com](mailto:jiyac3729@gmail.com)
 
-- 📄 **View my Resume:** [Click Here](https://drive.google.com/file/d/1Gqs9eEn4rcgruYB5spQ7DvXLFPnJJu0_/view?usp=drivesdk)
+- 📄 **View my Resume:** [Click Here](https://drive.google.com/file/d/1Ty4WZuBF2dw5PjqNQ9fAoEhV8QmXIfq_/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
