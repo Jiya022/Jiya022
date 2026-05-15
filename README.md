@@ -11,7 +11,7 @@ B.Tech CSE (AIML) student passionate about Full Stack Development.
 - 📄 <b>View my Resume:</b> 
 <a href="https://drive.google.com/file/d/1ffkwKLJowxu_K5UYouC-jVLLBV9mMJmE/view?usp=drivesdk" target="_blank">Click Here</a>
 
-<br>
+
 
 <h3 align="left">Connect with me:</h3>
 
@@ -31,7 +31,6 @@ B.Tech CSE (AIML) student passionate about Full Stack Development.
 
 </p>
 
-<br>
 
 <h3 align="left">Languages and Tools:</h3>
 
