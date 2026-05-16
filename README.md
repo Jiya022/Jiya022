@@ -9,7 +9,7 @@ B.Tech CSE (AIML) student passionate about Full Stack Development.
 - 📬 Reach me at: <a href="mailto:jiyac3729@gmail.com">jiyac3729@gmail.com</a>
 
 - 📄 <b>View my Resume:</b> 
-<a href="https://drive.google.com/file/d/1ffkwKLJowxu_K5UYouC-jVLLBV9mMJmE/view?usp=drivesdk" target="_blank">Click Here</a>
+<a href="https://drive.google.com/file/d/1we04-Nobl6WFIBKJERGR07BOFKJ3A0DS/view?usp=drivesdk">Click Here</a>
 
 
 
