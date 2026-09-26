@@ -8,8 +8,8 @@ B.Tech CSE (AIML) student passionate about Backend Development.
 
 - 📬 Reach me at: <a href="mailto:jiyac3729@gmail.com">jiyac3729@gmail.com</a>
 
-- 📄<b>View my Resume:</b> 
-<a href="https://drive.google.com/file/d/1Q6BLSc5X9pIPye33VBhqG6uVCEO4dBuA/view?usp=drivesdk">Click Here</a>
+- 📄<b>View my Resume:</b> <a href="https://drive.google.com/file/d/11vqz8Ozt_LZ0KeEyT4gYuWIJqZALFyM3/view?usp=drivesdk">Click Here</a>
+
 
 
 
