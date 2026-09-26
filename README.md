@@ -17,7 +17,7 @@ B.Tech CSE (AIML) student passionate about Backend Development.
 
 <p align="left">
 
-<a href="https://twitter.com/jiyaaaa_07" target="blank">
+<a href="https://x.com/jiyaaaa__07" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jiyaaaa_07" height="30" width="40" />
 </a>
 
